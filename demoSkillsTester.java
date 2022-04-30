@@ -5,7 +5,7 @@ public class demoSkillsTester {
 
     @Test 
     public void substractionTest() {
-        assertEquals(2, demoSkills.substraction(3,2));
+        assertEquals(1, demoSkills.substraction(3,2));
     }
 
 }
